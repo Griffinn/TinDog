@@ -2,18 +2,15 @@
 TinDog is a modern, responsive landing page for a fictional dog dating app.
 Inspired by real-world product landing pages, it showcases clean UI design, responsive layouts, and structured frontend development using HTML, CSS, and Bootstrap.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-1C1E26?style=for-the-badge&logo=fontawesome&logoColor=white)
-
-![Responsive](https://img.shields.io/badge/Responsive-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-16A34A?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Made With Love](https://img.shields.io/badge/Made%20With-Love-FF4C68?style=for-the-badge&logo=heart&logoColor=white)
-
-![Live](https://img.shields.io/badge/Live-Deployed-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-FF6B3D?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-B5179E?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-FFBE0B?style=for-the-badge&logo=fontawesome&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-06D6A0?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-38B000?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Made With Love](https://img.shields.io/badge/Made%20With-Love-FF006E?style=for-the-badge&logo=heart&logoColor=white)
+![Live](https://img.shields.io/badge/Live-Deployed-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2B2D42?style=for-the-badge&logo=github&logoColor=white)
 
 ## Preview 
 ![App Dashboard](./assets/website.png)
