@@ -2,7 +2,7 @@
 TinDog is a modern, responsive landing page for a fictional dog dating app.
 Inspired by real-world product landing pages, it showcases clean UI design, responsive layouts, and structured frontend development using HTML, CSS, and Bootstrap.
 
-![HTML5](https://img.shields.io/badge/HTML5-FF3D00?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF0054?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-B5179E?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-8338EC?style=for-the-badge&logo=fontawesome&logoColor=white)
