@@ -109,5 +109,9 @@ This project helped me:
 - Convert into a full-stack application
 - Add animations (GSAP / Framer Motion)
 
+## 🌐 Live Demo
+
+[Explore the Live Deployment](https://griffinn.github.io/TinDog-dating-website/)
+
 ## A Note
 This is a fun and educational project built to strengthen frontend development skills and explore UI design.
